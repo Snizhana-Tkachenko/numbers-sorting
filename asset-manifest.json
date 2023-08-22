@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/numbers-sorting/static/css/main.073c9b0a.css",
+    "main.js": "/numbers-sorting/static/js/main.64f6bdbc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/numbers-sorting/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/numbers-sorting/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/numbers-sorting/index.html",
+    "main.073c9b0a.css.map": "/numbers-sorting/static/css/main.073c9b0a.css.map",
+    "main.64f6bdbc.js.map": "/numbers-sorting/static/js/main.64f6bdbc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/numbers-sorting/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.64f6bdbc.js"
+  ]
+}
